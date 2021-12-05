@@ -9,6 +9,7 @@
     "deploy": "node scripts/gh-pages-deploy.js"
   },
   "dependencies": {
+    "@stakeordie/griptape.js": "^0.8.6-beta",
     "core-js": "^3.6.5",
     "vue": "^3.0.0"
   },
